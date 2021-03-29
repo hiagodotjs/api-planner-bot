@@ -83,7 +83,7 @@ const STEPS = [
     },
     {
         text: "Com quanto tempo de antecedência você costuma se programar para viajar a turismo?",
-        inputType: "sigleChoice",
+        inputType: "multiChoice",
         options: [
             "1 semana antes",
             "Até 15 dias antes",
