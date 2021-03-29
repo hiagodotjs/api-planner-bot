@@ -188,7 +188,7 @@ const STEPS = [
     },
     {
         text: "Gostaria de adicionar transfer ou algum passeio? Veja o que temos disponível",
-        inputType: "packagePlus",
+        inputType: "multiChoice",
         plusOptions: [
             {
                 description: "Transfer aeroporto para gramado + passeio caminhos de pedra",
